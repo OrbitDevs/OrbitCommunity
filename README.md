@@ -1,2 +1,3 @@
 # OrbitCommunity
-Minecraft Plugin &amp; Discord Bot
+Minecraft Plugin & Java Discord Bot
+
