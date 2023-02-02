@@ -1,0 +1,6 @@
+name: OrbitCommunity
+version: '${project.version}'
+main: net.orbitdev.orbitcommunity.OrbitCommunity
+api-version: 1.19
+authors: [ kryunek ]
+description: A minecraft plugin with discord implementation for Orbit Development

@@ -1,0 +1,18 @@
+BUGS:
+  NAME: "&d%player% &7Bug report &7(&5%category%&7)"
+  LORE:
+    - "&7&m------------------------------"
+    - ""
+    - "&dBug ↴"
+    - ""
+    - "&7%bug%"
+    - ""
+    - "&7Plugin: &5%category%"
+    - "&7Status: &f%status%"
+    - "&7Bug reported by: &d%player%"
+    - ""
+    - "%head%"
+    - ""
+    - "&cClick to see all the information"
+    - "&cand change things!"
+    - "&7&m------------------------------"

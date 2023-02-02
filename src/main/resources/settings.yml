@@ -1,0 +1,14 @@
+BUTTONS:
+  BACK_BUTTON:
+    MATERIAL: BED
+    DATA: 0
+    NAME: "&c&lBack"
+    LORE:
+      - "&cClick here to return"
+      - "&cto the previous menu."
+    GLOW: false
+  FILLER:
+    MATERIAL: STAINED_GLASS_PANE
+    DATA: 15
+    NAME: " "
+    GLOW: false

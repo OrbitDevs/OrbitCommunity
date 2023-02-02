@@ -1,0 +1,48 @@
+TITLE: "&8Editor"
+SIZE: 27
+FILLER: false
+
+ITEMS:
+  BUGS:
+    NAME: "&cBugs"
+    LORE:
+      - "&7&m------------------------------"
+      - ""
+      - "&aFixed Bugs: &7%bugs_fixed%"
+      - "&fPending Bugs: &7%bugs_pending%"
+      - "&6Revising Bugs: &7%bugs_revising%"
+      - ""
+      - "&cClick to browse bugs!"
+      - "&7&m------------------------------"
+    MATERIAL: "INK_SACK"
+    DATA: 1
+    SLOT: 12
+    GLOW: true
+  LICENSES:
+    NAME: "&7Licenses"
+    LORE:
+      - "&7&m------------------------------"
+      - ""
+      - "&fActive Licenses: &70"
+      - ""
+      - "&7Click to browse licenses!"
+      - "&7&m------------------------------"
+    MATERIAL: "TRIPWIRE_HOOK"
+    DATA: 0
+    SLOT: 13
+    GLOW: true
+  SUGGESTIONS:
+    NAME: "&6Suggestions"
+    LORE:
+      - "&7&m------------------------------"
+      - ""
+      - "&aApproved Suggestion: &7%suggestions_approved%"
+      - "&fPending Suggestion: &7%suggestions_pending%"
+      - "&cDenied Suggestion: &7%suggestions_denied%"
+      - ""
+      - "&6Click to browse suggestions!"
+      - "&7&m------------------------------"
+    MATERIAL: "INK_SACK"
+    DATA: 11
+    SLOT: 14
+    GLOW: true

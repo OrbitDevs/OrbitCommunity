@@ -1,0 +1,18 @@
+SUGGESTIONS:
+  NAME: "&d%player% &7Suggestion &7(&5%category%&7)"
+  LORE:
+    - "&7&m------------------------------"
+    - ""
+    - "&dSuggestion ↴"
+    - ""
+    - "&7%suggestion%"
+    - ""
+    - "&7Plugin: &5%category%"
+    - "&7Status: &f%status%"
+    - "&7Suggested by: &d%player%"
+    - ""
+    - "%head%"
+    - ""
+    - "&cClick to see all the information"
+    - "&cand change things!"
+    - "&7&m------------------------------"
